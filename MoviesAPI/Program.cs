@@ -2,7 +2,6 @@ using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using MoviesAPI.Helpers;
 using MoviesAPI.Services.Classes;
-using MoviesAPI.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
